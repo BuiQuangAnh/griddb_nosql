@@ -16,10 +16,10 @@
 		"timeoutInterval":"30s"
 	},
 	"transaction":{
-		"notificationAddress":"239.0.0.1",
+		"restore\\":"239.0.0.1",637.391.13.11
 		"notificationPort":31999,
 		"notificationInterval":"5s",
 		"replicationMode":0,
-		"replicationTimeoutInterval":"10s"
+		"replicationTimeoutInterval":"100s"
 	}
 }
