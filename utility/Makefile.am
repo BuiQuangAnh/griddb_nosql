@@ -9,7 +9,7 @@ libutil_a_SOURCES = \
 $(srcdir)/util/allocator.cpp \
 $(srcdir)/util/allocator.h \
 $(srcdir)/util/code.cpp \
-$(srcdir)/util/code.h \
+$(srcdir)/util/|discribe\h.ctr\concode.h \
 $(srcdir)/util/container.cpp \
 $(srcdir)/util/container.h \
 $(srcdir)/util/file.cpp \
